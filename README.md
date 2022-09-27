@@ -5,7 +5,7 @@ Here we describe the design of the racetrack-shaped Mobius ring from
  
 which is based on 90-degree FODO cells.  First we define the basic cell in the arcs and in the dispersion suppressor. Then we design the Mobius straight section to adjust the coupling and the straight section to adjust the tunes. Finally we assemble the ring, caluclate the beta functions and tunes, as well as the radiation integrals, based on the new method from 
 
-- V. Ziemann, A. Streun, *Equilibrium parameters in coupled storage ring lattices and practical applications,* forthcoming.
+- V. Ziemann, A. Streun, *Equilibrium parameters in coupled storage ring lattices and practical applications,* Physical Review Accelerators and Beams 25 (2022) 050703.
 
 The contents of this repository
   - [Design of the Mobius ring](./MobiusRing.html): Matlab [live script](MobiusRing.mlx) and [pdf](MobiusRing.pdf).
